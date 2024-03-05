@@ -1,0 +1,31 @@
+22:14:31.500 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+22:15:11.140 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+22:15:11.142 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+22:15:11.571 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+22:15:11.613 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+22:15:11.632 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+22:15:11.659 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+22:15:11.665 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+22:15:11.667 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+22:15:11.673 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+22:15:11.690 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+22:15:11.694 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+22:15:11.699 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+22:15:11.701 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+22:15:11.706 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+22:15:11.708 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+22:15:11.709 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+22:15:11.715 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+22:15:11.721 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation Completed*******
+22:15:11.724 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+22:15:11.725 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+22:15:37.945 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+22:15:39.426 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+22:15:50.982 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation Completed*******
+22:15:50.983 [main] INFO  TestCase.Tc_2CarInsuranceRunner -          ===========================             
+22:15:50.983 [main] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+22:16:17.234 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Homepage*******
+22:16:18.639 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Health Insurance Page*******
+22:16:19.396 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Health Insurance validation Completed*******
+22:16:19.396 [main] INFO  TestCase.Tc_3HealthInsuranceRunner -          ===========================             
+22:16:19.397 [main] INFO  TestCase.Tc_3HealthInsuranceRunner -                                  
