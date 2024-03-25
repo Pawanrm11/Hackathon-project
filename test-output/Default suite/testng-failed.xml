@@ -3,6 +3,20 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
+      <class name="TestCase.Tc_2CarInsuranceRunner">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="carInsurance"/>
+        </methods>
+      </class> <!-- TestCase.Tc_2CarInsuranceRunner -->
+      <class name="TestCase.Tc_3HealthInsuranceRunner">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="healthInsurance"/>
+        </methods>
+      </class> <!-- TestCase.Tc_3HealthInsuranceRunner -->
       <class name="TestCase.Tc_1TravelInsuranceRunner">
         <methods>
           <include name="setup"/>

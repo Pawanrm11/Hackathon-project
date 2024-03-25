@@ -1,0 +1,46 @@
+22:05:41.802 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+22:05:42.751 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+22:06:46.405 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+22:06:47.292 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+22:08:32.885 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+22:08:33.817 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+22:09:31.767 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+22:09:32.781 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+22:12:41.023 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+22:12:42.095 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+22:14:07.118 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+22:14:07.959 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+22:15:07.064 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+22:15:07.911 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+22:16:30.477 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+22:16:31.329 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+22:17:38.258 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+22:17:39.284 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+22:18:21.528 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+22:18:21.528 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+22:18:21.769 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+22:18:21.796 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+22:18:21.813 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+22:18:21.846 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+22:18:21.848 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+22:18:21.850 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+22:18:21.855 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+22:18:21.867 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+22:18:21.872 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+22:18:21.878 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+22:18:21.880 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+22:18:21.886 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+22:18:21.888 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+22:18:21.890 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+22:18:21.899 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+22:18:21.905 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation Completed*******
+22:18:21.908 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+22:18:21.908 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+22:18:47.443 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+22:18:53.581 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+22:18:53.744 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ******hi 1*******
+22:19:02.388 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation Completed*******
+22:19:02.388 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner -          ===========================             
+22:19:02.388 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+22:19:27.381 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Homepage*******
+22:19:28.532 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Health Insurance Page*******

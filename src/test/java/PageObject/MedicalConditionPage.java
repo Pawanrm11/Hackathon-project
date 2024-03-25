@@ -8,6 +8,8 @@ public class MedicalConditionPage extends BasePage {
 	
 	public WebDriver driver;
 	
+
+	
 	public MedicalConditionPage(WebDriver driver) {
 		super(driver);
 		
@@ -22,11 +24,14 @@ public class MedicalConditionPage extends BasePage {
 	//Actions 
 	
 	public void medicalCondition() {
+		
 		status.click();
 	}
 	
-	public void clickNext() {
+	public void clickNext() throws InterruptedException {
+		
 		nextbtn.click();
+		Thread.sleep(2000);	
 	}
 	
 

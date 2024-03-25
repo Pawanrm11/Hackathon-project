@@ -2,16 +2,11 @@ package baseClass;
 
 import java.io.File;
 import java.io.IOException;
-import java.text.SimpleDateFormat;
 import java.time.Duration;
-import java.time.LocalDate;
-import java.util.Random;
-
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.apache.poi.hpsf.Date;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -27,7 +22,7 @@ public class BaseClass {
 	public Logger logger;
 	
 
-	@BeforeClass
+	@BeforeClass(groups = { "smoke","regression","master" })
 	@Parameters({"browser"})
 	public void setup(String br) throws IOException 
 	{
@@ -48,7 +43,7 @@ public class BaseClass {
 		driver.manage().window().maximize();
 	}
 	
-	@AfterClass()
+	@AfterClass(groups = { "smoke","regression","master" })
 	public void tearDown() throws InterruptedException 
 	{
 		Thread.sleep(10000);
@@ -72,22 +67,7 @@ public class BaseClass {
 		String num=RandomStringUtils.randomNumeric(3);
 		return (str+"@"+num);
 	}
-	
-	public String captureScreen(String tname) throws IOException {
 
-		String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
-				
-		TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
-		File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
-		
-		String targetFilePath=System.getProperty("user.dir")+"\\screenshots\\" + tname + "_" + timeStamp + ".png";
-		File targetFile=new File(targetFilePath);
-		
-		sourceFile.renameTo(targetFile);
-			
-		return targetFilePath;
-
-	}
 	
 	public static String screenShot(String filename,WebDriver driver) throws IOException {
 		TakesScreenshot ts=(TakesScreenshot)driver;
@@ -97,23 +77,5 @@ public class BaseClass {
 		return trg.getAbsolutePath();
 	}
 	
-	static public LocalDate Start_date_modified(LocalDate currentDate)
-	{		
-		Random random=new Random();
-		int daysToAdd= random.nextInt(15);
-		LocalDate randomdate=currentDate.plusDays(daysToAdd);
-		return randomdate;
-	}
 	
-	static public String Dates(LocalDate randomdate) {
-		String arr=randomdate.toString();
-		String date[]=arr.split("-");
-		String monthdummy=date[1];
-		int num=Integer.parseInt(monthdummy);
-		String month_alp[]= {"January","February","March","April","May","June","July","August","September","October","November","December"};
-		String month=month_alp[num-1];
-		int len=date.length;
-		String start_date=date[len-1]+" "+month+", "+date[0];
-		return start_date;
-	}
 }

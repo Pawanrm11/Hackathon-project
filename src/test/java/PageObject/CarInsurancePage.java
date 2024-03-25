@@ -13,19 +13,25 @@ public class CarInsurancePage extends BasePage {
 	}
 	//Locators 
 	
-	@FindBy(css=".btn-proceed") WebElement buyingANewCar;
+	@FindBy(css=".btn-proceed") 
+	WebElement buyingANewCar;
 	
-	@FindBy(css="#spn6") WebElement chennai;
+	@FindBy(css="#spn6") 
+	WebElement chennai;
 	
-	@FindBy(xpath="//*[@id=\"section3\"]/ul/li[14]/span")WebElement rto;
+	@FindBy(xpath="//*[@id=\"section3\"]/ul/li[14]/span")
+	WebElement rto;
 	
-	@FindBy(xpath="//*[@id=\"dvMake\"]/div/ul/div/li[8]/span") WebElement renault;
+	@FindBy(xpath="//*[@id=\"dvMake\"]/div/ul/div/li[8]/span")
+	WebElement renault;
 	
 	@FindBy(xpath="//body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/div[1]/li[5]/span[1]") WebElement kwid;
 	
-	@FindBy(xpath="//b[normalize-space()='1.0 RXT (999 cc)']") WebElement variant;
+	@FindBy(xpath="//b[normalize-space()='1.0 RXT (999 cc)']")
+	WebElement variant;
 	
-	@FindBy(css="#name") WebElement fullName;
+	@FindBy(css="#name")
+	WebElement fullName;
 	
 	@FindBy(css="#email") WebElement email;
 	

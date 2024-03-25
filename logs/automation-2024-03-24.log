@@ -1,0 +1,3 @@
+14:39:17.507 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+14:39:58.251 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+14:39:58.252 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part

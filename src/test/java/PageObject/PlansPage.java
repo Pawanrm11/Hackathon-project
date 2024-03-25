@@ -6,25 +6,13 @@ import java.util.List;
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.time.Duration;
-import java.util.List;
 
-import org.apache.poi.xssf.usermodel.XSSFRow;
-import org.apache.poi.xssf.usermodel.XSSFSheet;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-//import utilities.workbook;
 
 public class PlansPage  extends BasePage{
 
@@ -38,20 +26,38 @@ public class PlansPage  extends BasePage{
 	
 	//locators 
 	
-//public	@FindBy(xpath="//summary[normalize-space()='Plan Type']") WebElement planType;
+	@FindBy(css="#studentTrip")
+	WebElement studentRadio;
 	
-	//@FindBy(xpath="//input[@id='studentTrip']") WebElement studentRadio;
-	@FindBy(css="#studentTrip") WebElement studentRadio;
-	@FindBy(xpath="//input[@id='Traveller_1']") WebElement trvl1ChkBox;
-	@FindBy(xpath="//input[@id='Traveller_2']") WebElement trvl2ChkBox;
-	@FindBy(xpath="//select[@id='feet']") WebElement durationSelect;
-	@FindBy(xpath="//div[@class='pqCtaWrapper']/button") WebElement btnViewPlan;
-	@FindBy(css="section[class='newFilterSection sort'] details summary") WebElement btnSort;
-	@FindBy(xpath="//input[@id='17_sort']") WebElement lowToHigh;
-	@FindBy(xpath="//section/article/div/div/div/div/div/p[1]") List<WebElement> insuranceProvider;
-	@FindBy(xpath="//section/article/div/div/div/div/div/p[2]") List<WebElement> insurancePlan;
-	@FindBy(xpath="//section/article/div/div/div/div[2]/p[1]") List<WebElement> insuranceAmount;
-	@FindBy(xpath="//section/article/div/div/div/div[3]/p/span") List<WebElement> insurancePremium;
+	@FindBy(xpath="//input[@id='Traveller_1']")
+	WebElement trvl1ChkBox;
+	
+	@FindBy(xpath="//input[@id='Traveller_2']")
+	WebElement trvl2ChkBox;
+	
+	@FindBy(xpath="//select[@id='feet']")
+	WebElement durationSelect;
+	
+	@FindBy(xpath="//div[@class='pqCtaWrapper']/button") 
+	WebElement btnViewPlan;
+	
+	@FindBy(css="section[class='newFilterSection sort'] details summary")
+	WebElement btnSort;
+	
+	@FindBy(xpath="//input[@id='17_sort']")
+	WebElement lowToHigh;
+	
+	@FindBy(xpath="//section/article/div/div/div/div/div/p[1]")
+	List<WebElement> insuranceProvider;
+	
+	@FindBy(xpath="//section/article/div/div/div/div/div/p[2]") 
+	List<WebElement> insurancePlan;
+	
+	@FindBy(xpath="//section/article/div/div/div/div[2]/p[1]")
+	List<WebElement> insuranceAmount;
+	
+	@FindBy(xpath="//section/article/div/div/div/div[3]/p/span") 
+	List<WebElement> insurancePremium;
 	
 
 	
@@ -102,7 +108,7 @@ public class PlansPage  extends BasePage{
 	}
 	public void printExcel() throws IOException{
 		
-		FileOutputStream file=new FileOutputStream(System.getProperty("user.dir")+"\\excelsheet\\Output.xlsx");
+		FileOutputStream file=new FileOutputStream(System.getProperty("user.dir")+"\\excelsheet\\output.xlsx");
 		XSSFWorkbook workbook=new XSSFWorkbook();
 		
 		XSSFSheet sheet = workbook.createSheet("Policy Plans");

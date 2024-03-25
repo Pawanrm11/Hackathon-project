@@ -2,7 +2,7 @@ package TestCase;
 
 import java.io.IOException;
 
-import org.openqa.selenium.JavascriptExecutor;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import PageObject.CountPage;
@@ -13,12 +13,11 @@ import PageObject.MobileNumberPage;
 import PageObject.PlansPage;
 import PageObject.TravelInsurancepage;
 import baseClass.BaseClass;
-import junit.framework.Assert;
 
 public class Tc_1TravelInsuranceRunner extends BaseClass {
 	public static String path;
 
-	@Test(priority = 1, groups = { "sanity", "master" })
+	@Test(priority = 1, groups = { "smoke","regression","master" })
 	public void travelInsurance() throws IOException, InterruptedException {
 
 		logger.info("******Starting Homepage*******");
@@ -44,6 +43,7 @@ public class Tc_1TravelInsuranceRunner extends BaseClass {
 
 			MedicalConditionPage status = new MedicalConditionPage(driver);
 			status.medicalCondition();
+			
 			status.clickNext();
 
 			MobileNumberPage num = new MobileNumberPage(driver);
@@ -56,6 +56,8 @@ public class Tc_1TravelInsuranceRunner extends BaseClass {
 			Thread.sleep(3000);
 			path = screenShot("travelInsurance", driver);
 			plan.printData();
+			System.out.println("\n \n");
+			System.out.println("Testcase 1 validated succesfully");
 			plan.printExcel();
 
 			logger.info("****** Travel Insurance validation Completed*******");
@@ -65,6 +67,7 @@ public class Tc_1TravelInsuranceRunner extends BaseClass {
 			logger.info("****** Travel Insurance validation failed*******");
 			logger.info("         ===========================             ");
 			logger.info("                                 ");
+			e.printStackTrace();
 			Assert.fail();
 		}
 	}

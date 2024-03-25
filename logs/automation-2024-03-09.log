@@ -1,0 +1,45 @@
+00:33:31.459 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+00:33:31.484 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+00:33:31.487 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation Completed*******
+00:33:31.487 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+00:33:31.487 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+00:33:55.436 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+00:34:01.370 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+00:34:01.457 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ******hi 1*******
+00:34:08.389 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation Completed*******
+00:34:08.390 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner -          ===========================             
+00:34:08.390 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+00:34:32.961 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Homepage*******
+00:34:34.130 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Health Insurance Page*******
+00:34:34.900 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Health Insurance validation Completed*******
+00:34:34.900 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner -          ===========================             
+00:34:34.900 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner -                                  
+00:37:10.598 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+00:37:10.897 [TestNG-tests-2] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+00:37:12.619 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation failed*******
+00:37:12.619 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+00:37:12.619 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+00:37:12.888 [TestNG-tests-2] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+00:37:40.142 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+00:37:46.248 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+00:38:01.301 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ******method  2*******
+00:38:39.854 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Homepage*******
+00:38:41.074 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Health Insurance Page*******
+00:38:42.007 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Health Insurance validation Completed*******
+00:38:42.008 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner -          ===========================             
+00:38:42.008 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner -                                  
+00:40:22.904 [TestNG-tests-2] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation failed*******
+00:40:22.905 [TestNG-tests-2] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+00:40:22.905 [TestNG-tests-2] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+00:40:48.277 [TestNG-tests-2] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+00:40:54.474 [TestNG-tests-2] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+00:40:54.578 [TestNG-tests-2] INFO  TestCase.Tc_2CarInsuranceRunner - ******hi 1*******
+00:41:01.680 [TestNG-tests-2] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation Completed*******
+00:41:01.680 [TestNG-tests-2] INFO  TestCase.Tc_2CarInsuranceRunner -          ===========================             
+00:41:01.680 [TestNG-tests-2] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+00:41:26.956 [TestNG-tests-2] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Homepage*******
+00:41:28.740 [TestNG-tests-2] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Health Insurance Page*******
+00:41:29.681 [TestNG-tests-2] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Health Insurance validation Completed*******
+00:41:29.681 [TestNG-tests-2] INFO  TestCase.Tc_3HealthInsuranceRunner -          ===========================             
+00:41:29.681 [TestNG-tests-2] INFO  TestCase.Tc_3HealthInsuranceRunner -                                  
+00:45:28.622 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******

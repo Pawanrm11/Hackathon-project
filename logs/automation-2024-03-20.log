@@ -1,0 +1,45 @@
+22:19:29.492 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Health Insurance validation Completed*******
+22:19:29.517 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner -          ===========================             
+22:19:29.518 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner -                                  
+12:28:12.602 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+12:28:13.239 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+12:28:31.462 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation failed*******
+12:28:31.463 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+12:28:31.464 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+12:29:15.615 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+12:29:16.412 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+12:29:59.699 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+12:29:59.699 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+12:29:59.944 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+12:29:59.969 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+12:29:59.984 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+12:30:00.013 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+12:30:00.038 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+12:30:00.050 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+12:30:00.058 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+12:30:00.087 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+12:30:00.092 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+12:30:00.097 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+12:30:00.098 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+12:30:00.103 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+12:30:00.104 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+12:30:00.105 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+12:30:00.111 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+12:30:00.115 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation Completed*******
+12:30:00.115 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+12:30:00.116 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+12:30:25.020 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+12:30:31.015 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+12:30:46.104 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ******method  2*******
+12:30:53.683 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation Completed*******
+12:30:53.684 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner -          ===========================             
+12:30:53.684 [TestNG-tests-1] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+12:32:14.562 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Homepage*******
+12:32:28.454 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Health Insurance Page*******
+12:32:29.254 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Health Insurance validation Completed*******
+12:32:29.254 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner -          ===========================             
+12:32:29.254 [TestNG-tests-1] INFO  TestCase.Tc_3HealthInsuranceRunner -                                  
+12:37:06.519 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+12:37:07.155 [TestNG-tests-1] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+12:39:58.750 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+12:39:58.751 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part

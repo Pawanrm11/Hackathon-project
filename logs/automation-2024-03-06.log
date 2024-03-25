@@ -1,0 +1,49 @@
+09:47:15.481 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation failed*******
+09:47:15.500 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+09:47:15.500 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+09:48:11.173 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+09:48:11.534 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+09:48:40.597 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation failed*******
+09:48:40.597 [main] INFO  TestCase.Tc_2CarInsuranceRunner -          ===========================             
+09:48:40.598 [main] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+09:49:37.232 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+09:49:37.666 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+09:49:47.391 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation failed*******
+09:49:47.392 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+09:49:47.392 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+09:51:25.662 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+09:51:25.942 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+09:51:34.537 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation Completed*******
+09:51:34.537 [main] INFO  TestCase.Tc_2CarInsuranceRunner -          ===========================             
+09:51:34.537 [main] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+09:51:54.829 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Homepage*******
+09:51:56.561 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Health Insurance Page*******
+09:51:57.048 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Health Insurance validation Completed*******
+09:51:57.048 [main] INFO  TestCase.Tc_3HealthInsuranceRunner -          ===========================             
+09:51:57.049 [main] INFO  TestCase.Tc_3HealthInsuranceRunner -                                  
+21:58:17.331 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+21:58:18.663 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+21:58:40.964 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation failed*******
+21:58:40.965 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+21:58:40.965 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+21:59:09.358 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+21:59:10.519 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+21:59:25.741 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation failed*******
+21:59:25.741 [main] INFO  TestCase.Tc_2CarInsuranceRunner -          ===========================             
+21:59:25.742 [main] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+22:25:07.806 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+22:25:08.549 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+22:25:15.752 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation failed*******
+22:25:15.753 [main] INFO  TestCase.Tc_2CarInsuranceRunner -          ===========================             
+22:25:15.753 [main] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+22:28:14.007 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+22:28:14.911 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+22:28:57.619 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+22:28:58.737 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+22:29:38.821 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+22:29:39.748 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+22:34:40.125 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+22:34:55.740 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation failed*******
+22:34:55.741 [main] INFO  TestCase.Tc_2CarInsuranceRunner -          ===========================             
+22:34:55.741 [main] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+22:35:45.458 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
